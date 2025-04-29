@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom'
 
+const imagenes_src = ['/img/Producto1.jpg', '/img/Producto2.jpeg', '/img/Producto3.jpg']
+
 export default function HomePage() {
   return (
     <div className="relative">

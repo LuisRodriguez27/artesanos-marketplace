@@ -7,7 +7,11 @@ import {
   MapPinIcon
 } from '@heroicons/react/24/outline'
 
-const imagenes_src = ['/img/Producto1.jpg', '/img/Producto2.jpeg', '/img/Producto3.jpg']
+const imagenes_src = ['/img/Producto1.jpg', '/img/Producto2.jpeg', 
+  '/img/Producto3.jpg', '/img/Producto4.jpeg', '/img/Producto5.jpg', '/img/Producto6.jpg', 
+  '/img/Producto7.jpg', '/img/Producto8.jpeg', '/img/Producto9.jpeg', '/img/Producto10.jpg', 
+  '/img/Producto11.jpg', '/img/Producto12.jpeg'
+]
 
 // Sample product data
 const PRODUCTS = Array.from({ length: 12 }).map((_, i) => ({
